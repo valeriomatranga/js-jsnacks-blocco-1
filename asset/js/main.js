@@ -40,12 +40,12 @@ var lista = ['vale','filippo','marco','ale'];
 var entra = false;
 
 for (var i = 0; i < lista.length; i++){
-    if (invitato == lista){
+    if (invitato == lista[i]){
         entra = true;
     }
 }
 
-if (entra){
+if (entra == true){
     document.getElementById("ingresso").innerHTML = "puoi entrare";
 }else{
     document.getElementById("ingresso").innerHTML = "Non puoi entrare";
