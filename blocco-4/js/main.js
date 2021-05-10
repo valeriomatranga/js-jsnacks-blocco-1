@@ -10,4 +10,5 @@ var palla = {
 
 //Attraverso un prompt dare la possibilità all’utente di modificare il peso della palla.
 
-palla.nome = prompt('scrivi il peso della palla');
+palla.peso = prompt('scrivi il peso della palla');
+console.log(palla);
