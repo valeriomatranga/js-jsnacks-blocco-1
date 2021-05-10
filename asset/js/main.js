@@ -35,7 +35,7 @@ var somma = numero_1 + numero_2 + numero_3 + numero_4 + numero_5 + numero_6 + nu
 console.log(somma);
  */
 
-var invitato = prompt('Chi sei?');
+/* var invitato = prompt('Chi sei?');
 var lista = ['vale','filippo','marco','ale'];
 var entra = false;
 
@@ -50,3 +50,43 @@ if (entra == true){
 }else{
     document.getElementById("ingresso").innerHTML = "Non puoi entrare";
 }
+ */
+
+/* var i = [];
+
+for (var i = 0; i < 6; i++){
+    var numero = prompt ("inserisci un numero");
+
+    }if(numero % 2 == 0){
+        i.push("pari");
+        console.log(risultato);
+    }else{
+        i
+}
+ */
+
+
+
+/* snack 6 - blocco 1:
+Stampa il cubo dei primi N numeri,
+dove N è un numero indicato dall’utente.
+ */
+
+/* var numero = [];
+
+for ( i = 0; i < numero.length; i++){
+
+    var scelta = prompt("Scegli un numero!");
+    var cubo = numero**2;
+    console.log(scelta[i]);
+    }
+ */
+    
+//chiedi un numero di 4 cifre all'utente e calcola la
+// somma di tutte le cifre che compongono il numero
+
+/* var scelta = Number (prompt(" scegli un numero a 4 cifre!"));
+
+var numeri = scelta %;
+console.log(numeri);
+ */
